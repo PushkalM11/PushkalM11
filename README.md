@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: Technically speaking, speech recognition goes way back to 1877 when Thomas Edison invented the phonograph, the first device to record and reproduce sound!
 
-<h2> Currently working on </h2>
+<h2> Skills </h2>
 <div id ="code_gif" align="center"> <img src="https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/GIF/coding.gif"> </div>
 <br/>
 <div id="skill_icons" align="center"><a href= https://en.wikipedia.org/wiki/C_(programming_language) > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/c.svg'> </a>
