@@ -1,4 +1,4 @@
-# Hello! The name's Pushkal Mishra 👋
+# Hello! My name is Pushkal Mishra 👋
 
 <h2>About Me</h2>
 
