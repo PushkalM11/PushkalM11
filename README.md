@@ -31,5 +31,6 @@
 <a href= https://git-scm.com > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/git.svg'> </a>
 <a href= https://www.mathworks.com/products/matlab.html > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/Matlab.png'> </a>
 <a href= https://www.arduino.cc > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/arduino.svg'> </a>
-<a href= https://www.oracle.com/in/java > <img width = '32px' src= https://github.com/MarcosArguello2021/githubAboutMeGenerator/blob/main/icons/Java.svg> </a>
+<a href= https://www.oracle.com/in/java > <img width = '32px' src= 'https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/java.svg'> </a>
+<br/>
 <a href="https://www.latex-project.org/"> <img src="https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/LaTeX.png" alt="LaTex" width="100" height="40"> </a> </div>
