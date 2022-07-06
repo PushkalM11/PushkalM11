@@ -23,7 +23,8 @@
 <h2> Skills </h2>
 <div id ="code_gif" align="center"> <img src="https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/GIF/coding.gif"> </div>
 <br/>
-<div id="skill_icons" align="center"><a href= https://en.wikipedia.org/wiki/C_(programming_language) > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/c.svg'> </a>
+<div id="skill_icons" align="center">
+<a href= https://en.wikipedia.org/wiki/C_(programming_language) > <img width ='32px' src= 'https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/c.svg'> </a>
 <a href= https://en.wikipedia.org/wiki/C%2B%2B > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/cpp.svg'> </a>
 <a href= https://www.python.org = > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/python.svg'> </a>
 <a href= https://www.tensorflow.org > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/tensorflow.svg'> </a>
@@ -34,3 +35,9 @@
 <a href= https://www.oracle.com/in/java > <img width = '32px' src= 'https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/java.svg'> </a>
 <br/>
 <a href="https://www.latex-project.org/"> <img src="https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/LaTeX.png" alt="LaTex" width="100" height="40"> </a> </div>
+<br/>
+<div id ="circuit_gif" align="center"> <img src="https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/GIF/processor.gif"> </div>
+<div id="skill_icons" align="center">
+<a href= https://www.arduino.cc > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/arduino.svg'> </a>
+<a href= https://www.raspberrypi.org > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/raspberry.png'> </a>
+</div>
