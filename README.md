@@ -40,7 +40,8 @@
 <div id="skill_icons" align="center">
 <a href= https://www.arduino.cc > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/arduino.svg'> </a>
 <a href= https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/LTspice.png'> </a>
-<a href= https://www.kicad.org > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/Kicad.png'> </a>
 <a href= https://www.raspberrypi.org > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/raspberry.png'> </a>
 <a href= https://en.wikipedia.org/wiki/Verilog > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/verilog.png'> </a>
+<br/>
+<a href= https://www.kicad.org > <img width ='32px' src ='https://raw.githubusercontent.com/PushkalM11/PushkalM11/main/Images/Kicad.png'> </a>
 </div>
