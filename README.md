@@ -8,9 +8,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on NLP for Mental Health diagnosis
-
-- 🌱 I’m currently learning about Transformers
+- 🔭 I’m currently working on numerous research projects in Machine Learning and Signal Processing
 
 - 👯 I’m looking to collaborate on Machine Learning projects
 
